@@ -1,0 +1,26 @@
+Submission, 
+Notes are included in the README., 5
+, 
+Correctness, 
+A random terrain is visible., 10
+A flyby view of the terrain is implemented., 10
+Toggle between perspective and parallel view, 10
+Variable view parameters, 10
+Infinite terrain, 10
+Variable plane speed, 5
+Variable yaw, 5
+Variable pitch, 5
+Variable roll, 5
+Constrained altitude, 5
+Colored terrain, 5
+Wireframe view, 5
+Flat shaded view, 5
+Smooth shaded view, 5
+, 
+Style, 
+Code is consistently well documented., 5
+Code has a consistent and pleasing style., 5
+Code consistently exhibits modularity., 5
+, 
+Quality, 
+Efforts are made to keep the code efficient., 10
